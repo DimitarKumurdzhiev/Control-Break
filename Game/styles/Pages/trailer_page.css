@@ -1,0 +1,42 @@
+
+/*style the video and the text above it*/
+#trailer_text{
+    margin-top:0;
+}
+
+video{
+    width:90%;
+    height:577px;
+    margin-bottom:5rem ;
+    margin-top: 1rem;
+    border-radius: 26px;
+
+}
+
+.grass-separator
+{
+    background: url(../../images/seperators_and_others/sep-grass-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+
+@media (max-width: 1199px){
+    video{
+
+        height:456px;
+    }
+}
+
+@media (max-width: 999px){
+    video{
+
+        height:335px;
+    }
+}
+@media (max-width: 768px){
+    video{
+
+        height:242px;
+    }
+}

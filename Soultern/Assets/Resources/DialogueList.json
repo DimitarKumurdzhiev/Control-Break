@@ -1,0 +1,57 @@
+{
+    "Dialogues":
+    [
+        {
+            "Speaker": "Ganyo",
+            "Text": "Ouch... My head hurts sooo bad. What happened with me? What is this place?"
+        },
+        {
+            "Speaker": "Ganyo",
+            "Text": "I have to find the way home before it goes dark. God knows how many beasts live here."
+        },
+        {
+            "Speaker": "Cat",
+            "Text": "WAAAAHHGGHFGDFG! Meow."
+        },
+        {
+            "Speaker": "Ganyo",
+            "Text": "Oh, it's a kitty."
+        },
+        {
+            "Speaker": "Cat",
+            "Text": "Hello, stranger."
+        },
+        {
+            "Speaker": "Ganyo",
+            "Text": "Wh-! A talking cat! What is this?"
+        },
+        {
+            "Speaker": "Kira",
+            "Text": "Call me Kira. Do you need something stranger, you look lost?"
+        },
+        {
+            "Speaker": "Ganyo",
+            "Text": "I am. I need to find the way out before dawn."
+        },
+        {
+            "Speaker": "Kira",
+            "Text": "Hmm, I can't help you with that. Although I saw a strange looking cottage down the road."
+        },
+        {
+            "Speaker": "Kira",
+            "Text": "There are rumours of a very important lantern in it. Maybe it can help you?"
+        },
+        {
+            "Speaker": "Ganyo",
+            "Text": "Thank you Kira."
+        },
+        {
+            "Speaker": "Kira",
+            "Text": "But beware! There is a mysterious evil creature that lurks around the forest. We call it The Beast. If you see it, run!"
+        },
+        {
+            "Speaker": "Ganyo",
+            "Text": "I will, thanks again."
+        }
+    ]
+}
