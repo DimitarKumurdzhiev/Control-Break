@@ -71,8 +71,8 @@ Contributions are welcome! If you'd like to improve the game or add new features
 ---
 
 ## 🏅 **Credits**
-- **Developer:** [Your Name]
-- **Special Thanks:** [Contributors and supporters]
+- **Developer:** [Dimitar Kumurdzhiev]
+- **Special Thanks:** [PSIvanov22]
 
 ---
 
